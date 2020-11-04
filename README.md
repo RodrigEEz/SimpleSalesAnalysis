@@ -7,7 +7,11 @@ the datasets and walkthrough was pulled out from https://www.youtube.com/watch?v
 
 ## Libraries used:
 -pandas
+
 -matplotlib
+
 -seaborn
+
 -numpy
+
 -os
